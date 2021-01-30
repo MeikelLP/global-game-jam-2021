@@ -11,6 +11,9 @@ TextureImporter:
   - first:
       213: 6441775205198627473
     second: SpritesheetLightWALK_2
+  - first:
+      213: 7088097553436339319
+    second: SpritesheetLightWALK_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -158,6 +161,27 @@ TextureImporter:
       bones: []
       spriteID: 19288cc4b68c56950800000000000000
       internalID: 6441775205198627473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetLightWALK_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c63e5ab2bfd5260800000000000000
+      internalID: 7088097553436339319
       vertices: []
       indices: 
       edges: []
