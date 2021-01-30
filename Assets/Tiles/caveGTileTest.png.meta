@@ -1,0 +1,1668 @@
+fileFormatVersion: 2
+guid: 5ee7982b823dc824cb5157b60e1fab32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2426623987120027491
+    second: caveGTileTest_0
+  - first:
+      213: 4520556635241627507
+    second: caveGTileTest_1
+  - first:
+      213: 2935888076094672440
+    second: caveGTileTest_2
+  - first:
+      213: 1174119504200612915
+    second: caveGTileTest_3
+  - first:
+      213: 4743836881091412504
+    second: caveGTileTest_4
+  - first:
+      213: 609423479728101412
+    second: caveGTileTest_5
+  - first:
+      213: 2243432215598048970
+    second: caveGTileTest_6
+  - first:
+      213: 8572479977305360306
+    second: caveGTileTest_7
+  - first:
+      213: 952103010068073918
+    second: caveGTileTest_8
+  - first:
+      213: -8834177125066209055
+    second: caveGTileTest_9
+  - first:
+      213: -7131376064857821806
+    second: caveGTileTest_10
+  - first:
+      213: 7742735457782483116
+    second: caveGTileTest_11
+  - first:
+      213: -1643651699877666346
+    second: caveGTileTest_12
+  - first:
+      213: 7838275842699161010
+    second: caveGTileTest_13
+  - first:
+      213: 8111214195267348750
+    second: caveGTileTest_14
+  - first:
+      213: 8381773067602312856
+    second: caveGTileTest_15
+  - first:
+      213: 5875507386065343858
+    second: caveGTileTest_16
+  - first:
+      213: 8787181656701242645
+    second: caveGTileTest_17
+  - first:
+      213: -1108150668503846811
+    second: caveGTileTest_18
+  - first:
+      213: -6741140412112670896
+    second: caveGTileTest_19
+  - first:
+      213: 7816445966941265586
+    second: caveGTileTest_20
+  - first:
+      213: 1439089044972734342
+    second: caveGTileTest_21
+  - first:
+      213: 8900658158344650119
+    second: caveGTileTest_22
+  - first:
+      213: -542170916417936628
+    second: caveGTileTest_23
+  - first:
+      213: -4865458653260299059
+    second: caveGTileTest_24
+  - first:
+      213: -5879080092103731560
+    second: caveGTileTest_25
+  - first:
+      213: 3467972978982384622
+    second: caveGTileTest_26
+  - first:
+      213: -232761681243959549
+    second: caveGTileTest_27
+  - first:
+      213: -5397848802957848902
+    second: caveGTileTest_28
+  - first:
+      213: 4781122265809254824
+    second: caveGTileTest_29
+  - first:
+      213: 4588251956918880616
+    second: caveGTileTest_30
+  - first:
+      213: -591158942878022888
+    second: caveGTileTest_31
+  - first:
+      213: -8936339535824086946
+    second: caveGTileTest_32
+  - first:
+      213: -650009992912456958
+    second: caveGTileTest_33
+  - first:
+      213: 7679090398059848843
+    second: caveGTileTest_34
+  - first:
+      213: 8018823291435815352
+    second: caveGTileTest_35
+  - first:
+      213: -8291974526620480291
+    second: caveGTileTest_36
+  - first:
+      213: 3886870458012624433
+    second: caveGTileTest_37
+  - first:
+      213: -6091503883976085437
+    second: caveGTileTest_38
+  - first:
+      213: 7826325965412213705
+    second: caveGTileTest_39
+  - first:
+      213: 596487088560482215
+    second: caveGTileTest_40
+  - first:
+      213: 2682911142245999253
+    second: caveGTileTest_41
+  - first:
+      213: -1042668063705080277
+    second: caveGTileTest_42
+  - first:
+      213: 1677453979652277448
+    second: caveGTileTest_43
+  - first:
+      213: 2519675165210068972
+    second: caveGTileTest_44
+  - first:
+      213: -2854553420476858957
+    second: caveGTileTest_45
+  - first:
+      213: -9037194837490966401
+    second: caveGTileTest_46
+  - first:
+      213: -6420831830690800406
+    second: caveGTileTest_47
+  - first:
+      213: -7667852177403556618
+    second: caveGTileTest_48
+  - first:
+      213: 1920187329371138100
+    second: caveGTileTest_49
+  - first:
+      213: -1956706275432975379
+    second: caveGTileTest_50
+  - first:
+      213: -7127932183148704726
+    second: caveGTileTest_51
+  - first:
+      213: 2315664792651890656
+    second: caveGTileTest_52
+  - first:
+      213: 3491378682456927916
+    second: caveGTileTest_53
+  - first:
+      213: 1951437082148551122
+    second: caveGTileTest_54
+  - first:
+      213: -5727832093289892965
+    second: caveGTileTest_55
+  - first:
+      213: -8130224212483076310
+    second: caveGTileTest_56
+  - first:
+      213: -6486742632572762043
+    second: caveGTileTest_57
+  - first:
+      213: 493674187981495591
+    second: caveGTileTest_58
+  - first:
+      213: 7560662544064727139
+    second: caveGTileTest_59
+  - first:
+      213: -2927729957802252826
+    second: caveGTileTest_60
+  - first:
+      213: -6835473614632114865
+    second: caveGTileTest_61
+  - first:
+      213: -6133967646673577111
+    second: caveGTileTest_62
+  - first:
+      213: 4167175374959454244
+    second: caveGTileTest_63
+  - first:
+      213: 3466704460740554712
+    second: caveGTileTest_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caveGTileTest_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3673bb3d8a91da120800000000000000
+      internalID: 2426623987120027491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fbc9e0f4e3cbe30800000000000000
+      internalID: 4520556635241627507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e8de376ae5eb820800000000000000
+      internalID: 2935888076094672440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c3cb3e77f4b4010800000000000000
+      internalID: 1174119504200612915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812c9d9628e75d140800000000000000
+      internalID: 4743836881091412504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428d9fa0d6b157800800000000000000
+      internalID: 609423479728101412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6a360c6b5422f10800000000000000
+      internalID: 2243432215598048970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b74f63de1197f670800000000000000
+      internalID: 8572479977305360306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd00b8a4ac863d00800000000000000
+      internalID: 952103010068073918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e80c81d5b2b66580800000000000000
+      internalID: -8834177125066209055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d2d6ea043480d90800000000000000
+      internalID: -7131376064857821806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca842f640e8b37b60800000000000000
+      internalID: 7742735457782483116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12356cc739039e0800000000000000
+      internalID: -1643651699877666346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdeb97995627cc60800000000000000
+      internalID: 7838275842699161010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e092406e552d09070800000000000000
+      internalID: 8111214195267348750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e3f5a423a025470800000000000000
+      internalID: 8381773067602312856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275db9d76def98150800000000000000
+      internalID: 5875507386065343858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d8188092752f970800000000000000
+      internalID: 8787181656701242645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560773696de0f90f0800000000000000
+      internalID: -1108150668503846811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f6ef2e288a272a0800000000000000
+      internalID: -6741140412112670896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be91919138997c60800000000000000
+      internalID: 7816445966941265586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68781cd9cdba8f310800000000000000
+      internalID: 1439089044972734342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78db053ff6d758b70800000000000000
+      internalID: 8900658158344650119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c036c5f8c62d978f0800000000000000
+      internalID: -542170916417936628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4c117122b6a7cb0800000000000000
+      internalID: -4865458653260299059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89616101ecf496ea0800000000000000
+      internalID: -5879080092103731560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3f5eedc07b02030800000000000000
+      internalID: 3467972978982384622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_27
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f8120fb7015ccf0800000000000000
+      internalID: -232761681243959549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe0e6cdc1df615b0800000000000000
+      internalID: -5397848802957848902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a975498e55f95240800000000000000
+      internalID: 4781122265809254824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869042068debcaf30800000000000000
+      internalID: 4588251956918880616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813c5f3d218cbc7f0800000000000000
+      internalID: -591158942878022888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 325
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e581de6f98ebbf380800000000000000
+      internalID: -8936339535824086946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203bff7fa53baf6f0800000000000000
+      internalID: -650009992912456958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 300
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84687e080c919a60800000000000000
+      internalID: 7679090398059848843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b119aa4c45984f60800000000000000
+      internalID: 8018823291435815352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_36
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 300
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcc23ec91dfcec80800000000000000
+      internalID: -8291974526620480291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 300
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1366dc98610f0f530800000000000000
+      internalID: 3886870458012624433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 300
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34071bfdd71a67ba0800000000000000
+      internalID: -6091503883976085437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3afc8fff1bc9c60800000000000000
+      internalID: 7826325965412213705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 300
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a721c2c8d5274800800000000000000
+      internalID: 596487088560482215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 300
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592a28d187d9b3520800000000000000
+      internalID: 2682911142245999253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_42
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 300
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed63c9be2b781f0800000000000000
+      internalID: -1042668063705080277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c44d38c183874710800000000000000
+      internalID: 1677453979652277448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_44
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 275
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce748b3863fa7f220800000000000000
+      internalID: 2519675165210068972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 250
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdb914c9c69268d0800000000000000
+      internalID: -2854553420476858957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_46
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f706b592d2f659280800000000000000
+      internalID: -9037194837490966401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_47
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 250
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec5721187f94e6a0800000000000000
+      internalID: -6420831830690800406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_48
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 250
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcc7a71211569590800000000000000
+      internalID: -7667852177403556618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_49
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 250
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4386f55d330e5aa10800000000000000
+      internalID: 1920187329371138100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_50
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 250
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de33a03720268d4e0800000000000000
+      internalID: -1956706275432975379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 250
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc850e17f741d90800000000000000
+      internalID: -7127932183148704726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_52
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 250
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eff4e82cd4e22020800000000000000
+      internalID: 2315664792651890656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 250
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae6730e96ed37030800000000000000
+      internalID: 3491378682456927916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_54
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 250
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d93df2efa5e41b10800000000000000
+      internalID: 1951437082148551122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 225
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93bf5afe07a280b0800000000000000
+      internalID: -5727832093289892965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_56
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 225
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f8aae8724ab2f80800000000000000
+      internalID: -8130224212483076310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 225
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5484e14a1f57af5a0800000000000000
+      internalID: -6486742632572762043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_58
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 225
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d9a61fe02e9d600800000000000000
+      internalID: 493674187981495591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 225
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3684495968edce860800000000000000
+      internalID: 7560662544064727139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_60
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 225
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e56dea7d1d9e57d0800000000000000
+      internalID: -2927729957802252826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_61
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 225
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f452c40a6f48321a0800000000000000
+      internalID: -6835473614632114865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_62
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b584cace4cfdaa0800000000000000
+      internalID: -6133967646673577111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428a635cce7c4d930800000000000000
+      internalID: 4167175374959454244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveGTileTest_64
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfe3b3f6553c1030800000000000000
+      internalID: 3466704460740554712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 61350102f62be964895f63a9365674e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
