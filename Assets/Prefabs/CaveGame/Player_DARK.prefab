@@ -102,7 +102,7 @@ GameObject:
   - component: {fileID: 3961463723727762321}
   - component: {fileID: 1069890986033099354}
   m_Layer: 11
-  m_Name: Player
+  m_Name: Player_DARK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -134,7 +134,7 @@ Animator:
   m_GameObject: {fileID: 41342835647678644}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: d5a639cddfc74ee4e81a0489be02d49d, type: 2}
+  m_Controller: {fileID: 9100000, guid: 092c14fa0a917164c8147012636da28c, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -425,6 +425,7 @@ GameObject:
   - component: {fileID: 5001131491305721336}
   - component: {fileID: 5317202781068630853}
   - component: {fileID: 7140518765763545098}
+  - component: {fileID: 284846839}
   m_Layer: 0
   m_Name: Sprite
   m_TagString: Untagged
@@ -522,4 +523,30 @@ MonoBehaviour:
   - {x: -0.110631265, y: 0.25396544, z: 0}
   m_ShapePathHash: 1982047635
   m_Mesh: {fileID: 0}
-  m_InstanceId: 32956
+  m_InstanceId: -21592
+--- !u!114 &284846839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7662770109407060711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db70e0ea77f5ac47a8f4565a9406397, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ShadowGroup: 0
+  m_HasRenderer: 1
+  m_UseRendererSilhouette: 1
+  m_CastsShadows: 1
+  m_SelfShadows: 0
+  m_ApplyToSortingLayers: 918f3f40076e393483fed84c000000002fa947b2e5c84f0f558c0628
+  m_ShapePath:
+  - {x: 0.0010325611, y: 0.020983756, z: 0}
+  - {x: 0.10544851, y: 0.26680183, z: 0}
+  - {x: 0.008638009, y: 0.47790444, z: 0}
+  - {x: -0.110631265, y: 0.25396544, z: 0}
+  m_ShapePathHash: 1982047635
+  m_Mesh: {fileID: 0}
+  m_InstanceId: 20734
