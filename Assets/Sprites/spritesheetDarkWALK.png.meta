@@ -1,31 +1,19 @@
 fileFormatVersion: 2
-guid: 92f82e9aef6635f4891b96fff39f0980
+guid: 5822a0d5cc343b34abd85a1933bb1e1d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7919411998057144871
-    second: spritesheetCharDark_0
+      213: 1481557632890123033
+    second: spritesheetDarkWALK_0
   - first:
-      213: -8260228695911254340
-    second: spritesheetCharDark_1
+      213: 6978871995439099860
+    second: spritesheetDarkWALK_1
   - first:
-      213: -4772239413911091448
-    second: spritesheetCharDark_2
+      213: 4853624273008373441
+    second: spritesheetDarkWALK_2
   - first:
-      213: 8639873988038251514
-    second: spritesheetCharDark_3
-  - first:
-      213: -4537691829397544584
-    second: spritesheetCharDark_4
-  - first:
-      213: -8535367306618340414
-    second: spritesheetCharDark_5
-  - first:
-      213: 417543593575704894
-    second: spritesheetCharDark_6
-  - first:
-      213: -6868172383517891803
-    second: spritesheetCharDark_7
+      213: 5665869616630809944
+    second: spritesheetDarkWALK_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,12 +103,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spritesheetCharDark_0
+      name: spritesheetDarkWALK_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 25
+        width: 50
         height: 50
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -129,40 +117,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9dd56d12fb8981290800000000000000
-      internalID: -7919411998057144871
+      spriteID: 9133fa641dc8f8410800000000000000
+      internalID: 1481557632890123033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheetCharDark_1
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 0
-        width: 25
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cb6b8b004c5cd5d80800000000000000
-      internalID: -8260228695911254340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheetCharDark_2
+      name: spritesheetDarkWALK_1
       rect:
         serializedVersion: 2
         x: 50
         y: 0
-        width: 25
+        width: 50
         height: 50
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -171,19 +138,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80706b6998995cdb0800000000000000
-      internalID: -4772239413911091448
+      spriteID: 4dfa11daa1fe9d060800000000000000
+      internalID: 6978871995439099860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheetCharDark_3
+      name: spritesheetDarkWALK_2
       rect:
         serializedVersion: 2
-        x: 75
+        x: 100
         y: 0
-        width: 25
+        width: 50
         height: 50
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -192,8 +159,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af35829bd9ff6e770800000000000000
-      internalID: 8639873988038251514
+      spriteID: 1cea0e98f898b5340800000000000000
+      internalID: 4853624273008373441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetDarkWALK_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85545f2b56631ae40800000000000000
+      internalID: 5665869616630809944
       vertices: []
       indices: 
       edges: []
@@ -201,7 +189,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: e2763bffa04a7e9469964ff14c847abb
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
