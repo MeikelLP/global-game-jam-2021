@@ -25,7 +25,7 @@ MonoBehaviour:
   - {x: -0.110631265, y: 0.25396544, z: 0}
   m_ShapePathHash: 1982047635
   m_Mesh: {fileID: 0}
-  m_InstanceId: -9686
+  m_InstanceId: -70116
 --- !u!1 &3017002458402325157
 GameObject:
   m_ObjectHideFlags: 0
@@ -109,6 +109,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 41342835647678600, guid: 4fb49a1922deb8249bfdbba50d98dbf1, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 22100000, guid: d043260382dd898488f3a0134232451b, type: 2}
     - target: {fileID: 41342835647678601, guid: 4fb49a1922deb8249bfdbba50d98dbf1, type: 3}
       propertyPath: m_Size.x
       value: 0.803175
@@ -195,7 +199,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7140518765763545098, guid: 4fb49a1922deb8249bfdbba50d98dbf1, type: 3}
       propertyPath: m_InstanceId
-      value: -9656
+      value: -70114
       objectReference: {fileID: 0}
     - target: {fileID: 7662770109407060711, guid: 4fb49a1922deb8249bfdbba50d98dbf1, type: 3}
       propertyPath: m_IsActive
