@@ -20,6 +20,6 @@ public class BackgroundScroll : MonoBehaviour
     {
         var camPos = cam.transform.position;
         camPos.z = 0;
-        _t.position = camPos + camPos * speed;
+        _t.position = camPos - camPos * speed;
     }
 }

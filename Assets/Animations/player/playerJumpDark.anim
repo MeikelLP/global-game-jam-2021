@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: playerJump
+  m_Name: playerJumpDark
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,17 +20,13 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 101571700091508751, guid: c7d5c75323f7dce47876c5c107fba2eb,
-        type: 3}
+      value: {fileID: 101571700091508751, guid: c7d5c75323f7dce47876c5c107fba2eb, type: 3}
     - time: 0.033333335
-      value: {fileID: -6829922608690292844, guid: c7d5c75323f7dce47876c5c107fba2eb,
-        type: 3}
+      value: {fileID: -6829922608690292844, guid: c7d5c75323f7dce47876c5c107fba2eb, type: 3}
     - time: 0.1
-      value: {fileID: 9007157022648109736, guid: c7d5c75323f7dce47876c5c107fba2eb,
-        type: 3}
+      value: {fileID: 9007157022648109736, guid: c7d5c75323f7dce47876c5c107fba2eb, type: 3}
     - time: 0.2
-      value: {fileID: -1445968619721516053, guid: c7d5c75323f7dce47876c5c107fba2eb,
-        type: 3}
+      value: {fileID: -1445968619721516053, guid: c7d5c75323f7dce47876c5c107fba2eb, type: 3}
     attribute: m_Sprite
     path: Sprite
     classID: 212
